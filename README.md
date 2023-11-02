@@ -2,10 +2,10 @@
 # TASK MANAGEMENTN APP
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. ADHYA PRATHEESH [Embed personal github URL]
-2. ROHINIKANTH S
-3. FAHMI
-4. MEHRIN P E [Embed perosnal github URL]
+1. ADHYA PRATHEESH [ https://github.com/adhyapratheesh ]
+2. ROHINIKANTH S [https://github.com/rohinikanth ]
+3. FAHMI [ https://github.com/FahmiP10 ]
+4. MEHRIN P E [ https://github.com/mehrinpe]
 ## Team Id
 codelace
 ## Link to product walkthrough
